@@ -48,7 +48,7 @@ const BoxLand = ({position, args, color, GSIRatio, height, type}) => {
 
 
 const App = () => {
-  const [reduction, setReduction] = useState(40);
+  const [reduction, setReduction] = useState(80);
   const [duration, setDuration] = useState(2);
   const [soilType, setSoilType] = useState(1);
   const [designStorm, setDesignStorm] = useState(1);
@@ -62,8 +62,10 @@ const App = () => {
   const [scenarios, setScenarios] = useState([]);
   const [feedbackScenarios, setFeedbackScenarios] = useState([])
   const [depthTitle, setDepthTitle] = useState("Depth")
+  const [reductionTitle, setReductionTitle] = useState("Reduction Amount")
   const [ratioTitle, setRatioTitle] = useState("Loading Ratio")
   const [designStormTitle, setDesignStormTitle] = useState("Design Storm")
+  const [surfaceTitle, setSurfaceTitle] = useState("Surface Type")
   const [isDelay, setIsDelay] = useState(true)
 
   const prevLoadingRatio = useRef();
@@ -195,7 +197,14 @@ const App = () => {
   }
 
   const changeReduction =(evt, value)=>{
-    setReduction(value);
+    if(value === 40) {
+      setReductionTitle( <p>Reduction Amount <br/> <span className="noData">We currently don't support 40%</span> </p>)
+      setReduction(80)
+    } else {
+      setReductionTitle("Reduction Amount")
+      setReduction(value)
+    }
+    
     // console.log("reduction ",value);
   }
   const changeDuration = (evt, value)=>{
@@ -211,7 +220,12 @@ const App = () => {
     // console.log("designStorm ", value);
   }
   const changeSurfaceType = (evt, value)=>{
-    setSurfaceType(value);
+    if(duration ===24 && value === 1){
+      setSurfaceTitle(<p>Surface Type <br /> <span className="noData">We currently don't support impervious paver surface</span> </p>)
+      setSurfaceType(0)
+    } else {
+      setSurfaceType(value);
+    }
     // console.log("surfaceType ", value);
   }
 
@@ -244,13 +258,29 @@ const App = () => {
     30:2.5
   }
 
-  const generateScenarios = (duration, soilType, designStorm, surfaceType) => {
+  const generateScenarios = (duration, soilType, designStorm, surfaceType, reduction) => {
+    if(reduction === 40){
+      setReductionTitle("Reduction Amount   We current have no 40% data")
+    }
     const scenarioArr = DATA[surfaceType][soilType][duration];
     //pick all the reliablity === 1 scenarios that fit the input context
     setScenarios(scenarioArr.filter(s=>s["designStorm"] === designStorm && s["reliability"] === 1));
     console.log("this is all generated scenarios",scenarios);
     
   }
+
+  // const generateScenarios = (duration, soilType, designStorm, surfaceType, reduction) => {
+  //   setScenarios(feedbackSearchData.filter(f=>
+  //     f["reduction"] === reduction
+  //     && f["duration"] === duration
+  //     && f["designStorm"] === designStorm 
+  //     && f["soilType"] === soilType
+  //     && f["surfaceType"] === surfaceType
+  //     && f["reliability"] === 1
+  //   ))
+  //   console.log("this is all generated scenarios",scenarios);
+  // }
+
 
   const generateOutputSlider = (scenarios) => {
     // sort loadingRatio (ascending) & then depth (ascending)
@@ -285,11 +315,11 @@ const App = () => {
     
     <div className="view">
       <div className="leftControlPanel">
-        <MySlider title="Reduction Amount" min={40} max={80} step={null} marks={[{value: 40,label: '40%'},{value: 80,label: '80%'}]} onChange={changeReduction} defaultVal={40}/>
+        <MySlider title={reductionTitle} min={40} max={80} step={null} marks={[{value: 40,label: '40%'},{value: 80,label: '80%'}]} onChange={changeReduction} defaultVal={80} value={reduction}/>
         <MySlider title="Duration" min={2} max={24} step={null} marks={[{value: 2,label: '2hrs'},{value: 24,label: '24hrs'}]} onChange={changeDuration} defaultVal={2} />
         <MySlider title="Soil Type" min={1} max={3} step={null} marks={[{value: 1,label: 'Fine'},{value: 2,label: 'Mix'},{value: 3,label: 'corase'}]} onChange={changeSoilType} defaultVal={1} />
         <MySlider title={designStormTitle} min={0} max={5} step={0.1} marks={[{value: 0,label: "0"},{value: 1,label: "1"},{value: 2,label: '2'},{value: 3,label: '3'},{value: 4,label: '4'},{value: 5,label: '5'}]} onChange={changeDesignStorm} defaultVal={0} />
-        <MySlider title="Surface Type" min={0} max={1} step={null} marks={[{value: 0,label: "Planted"},{value: 1,label: 'Paved'}]} onChange={changeSurfaceType} defaultVal={0} />
+        <MySlider title={surfaceTitle} min={0} max={1} step={null} marks={[{value: 0,label: "Planted"},{value: 1,label: 'Paved'}]} onChange={changeSurfaceType} defaultVal={0} value={surfaceType} />
         {/* onClick={generate} */}
         {/* onClick={generate(duration, soilType, designStorm, surfaceType)} */}
         <Button sx={{ml: 4, mt:4 }} variant="contained" onClick={()=>generateScenarios(duration, soilType, designStorm, surfaceType)} >GENERATE</Button>

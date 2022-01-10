@@ -9,3 +9,7 @@
 .right3dPanel{
     width: 800px;
 }
+
+.noData{
+    font-size: 0.7rem;
+}
