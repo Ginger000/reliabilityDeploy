@@ -1,0 +1,2802 @@
+[
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 0,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 0,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 0,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 0,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0001,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0001,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0001,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0007,
+    "reliability": 0.999
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0019,
+    "reliability": 0.998
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0028,
+    "reliability": 0.997
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0036,
+    "reliability": 0.996
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0067,
+    "reliability": 0.993
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0095,
+    "reliability": 0.991
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0121,
+    "reliability": 0.988
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0144,
+    "reliability": 0.986
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0203,
+    "reliability": 0.98
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0258,
+    "reliability": 0.974
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.0308,
+    "reliability": 0.969
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.03,
+    "reliability": 0.97
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.043227991,
+    "reliability": 0.957
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.048877486,
+    "reliability": 0.951
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.059699129,
+    "reliability": 0.94
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.068377635,
+    "reliability": 0.932
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.069356638,
+    "reliability": 0.931
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.081290038,
+    "reliability": 0.919
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.094580511,
+    "reliability": 0.905
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.100027785,
+    "reliability": 0.9
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.113527343,
+    "reliability": 0.886
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.118020729,
+    "reliability": 0.882
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.132018209,
+    "reliability": 0.868
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.151515152,
+    "reliability": 0.848
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.150110375,
+    "reliability": 0.85
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.174302264,
+    "reliability": 0.826
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.181415929,
+    "reliability": 0.819
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.192951016,
+    "reliability": 0.807
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.212222968,
+    "reliability": 0.788
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.220806794,
+    "reliability": 0.779
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.227540501,
+    "reliability": 0.772
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.23292868,
+    "reliability": 0.767
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 1,
+    "depth": 12,
+    "probabilityOfFailure": 0.248760331,
+    "reliability": 0.751
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0003,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0003,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0008,
+    "reliability": 0.999
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.001,
+    "reliability": 0.999
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0013,
+    "reliability": 0.999
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0026,
+    "reliability": 0.997
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0037,
+    "reliability": 0.996
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0048,
+    "reliability": 0.995
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0076,
+    "reliability": 0.992
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.01,
+    "reliability": 0.99
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0164,
+    "reliability": 0.984
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0186,
+    "reliability": 0.981
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0222,
+    "reliability": 0.978
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0263,
+    "reliability": 0.974
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0319,
+    "reliability": 0.968
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.0425155,
+    "reliability": 0.957
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.051020408,
+    "reliability": 0.949
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.063602442,
+    "reliability": 0.936
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.066512538,
+    "reliability": 0.933
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.068920916,
+    "reliability": 0.931
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.076320132,
+    "reliability": 0.924
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.099230346,
+    "reliability": 0.901
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.097076964,
+    "reliability": 0.903
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.112841704,
+    "reliability": 0.887
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.12133747,
+    "reliability": 0.879
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.121128699,
+    "reliability": 0.879
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.153671804,
+    "reliability": 0.846
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.153950954,
+    "reliability": 0.846
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 1,
+    "depth": 18,
+    "probabilityOfFailure": 0.170869789,
+    "reliability": 0.829
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0037,
+    "reliability": 0.996
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0054,
+    "reliability": 0.995
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0085,
+    "reliability": 0.992
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0098,
+    "reliability": 0.99
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0128,
+    "reliability": 0.987
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0164,
+    "reliability": 0.984
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0207,
+    "reliability": 0.979
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0254,
+    "reliability": 0.975
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0305,
+    "reliability": 0.97
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.038947901,
+    "reliability": 0.961
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.0471314,
+    "reliability": 0.953
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.055842813,
+    "reliability": 0.944
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.056833559,
+    "reliability": 0.943
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.070069693,
+    "reliability": 0.93
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.076636288,
+    "reliability": 0.923
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 1,
+    "depth": 24,
+    "probabilityOfFailure": 0.090277778,
+    "reliability": 0.91
+  },
+  {
+    "designStorm": 0.1,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.2,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.3,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.4,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.5,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.6,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.7,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.8,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 0.9,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.1,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.2,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.3,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.4,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.5,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.6,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.7,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.8,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 1.9,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.1,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.2,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.3,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.4,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.5,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.6,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.7,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.8,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 2.9,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.1,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.2,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.3,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.4,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.5,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.6,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.7,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.8,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 3.9,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0,
+    "reliability": 1
+  },
+  {
+    "designStorm": 4.1,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0019,
+    "reliability": 0.998
+  },
+  {
+    "designStorm": 4.2,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0036,
+    "reliability": 0.996
+  },
+  {
+    "designStorm": 4.3,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0046,
+    "reliability": 0.995
+  },
+  {
+    "designStorm": 4.4,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0089,
+    "reliability": 0.991
+  },
+  {
+    "designStorm": 4.5,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0112,
+    "reliability": 0.989
+  },
+  {
+    "designStorm": 4.6,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0142,
+    "reliability": 0.986
+  },
+  {
+    "designStorm": 4.7,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0179,
+    "reliability": 0.982
+  },
+  {
+    "designStorm": 4.8,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0224,
+    "reliability": 0.978
+  },
+  {
+    "designStorm": 4.9,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0271,
+    "reliability": 0.973
+  },
+  {
+    "designStorm": 5,
+    "loadingRatio": 1,
+    "depth": 30,
+    "probabilityOfFailure": 0.0312,
+    "reliability": 0.969
+  }
+]
