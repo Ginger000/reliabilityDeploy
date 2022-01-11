@@ -55,6 +55,7 @@ const App = () => {
   const [surfaceType, setSurfaceType] = useState(0);
   // const startDepth = [];
   // const startLoadingRatio = []
+  const [noDataAlert, setNoDataAlert] = useState([])
   const [startDepth, setStartDepth] = useState([]);
   const [startLoadingRatio, setStartLoadingRatio] = useState([]);
   const [depth, setDepth] = useState(0);
@@ -80,11 +81,13 @@ const App = () => {
   //Feedback and limitation changes every time either depth changes or ratio changes
 
   const firstUpdate = useRef(true);
+  const firstFeedbackUpdate = useRef(true);
   useEffect(()=>{
     if(firstUpdate.current){
       firstUpdate.current = false;
       return
     }
+    console.log("this is all generated scenarios",scenarios);
     generateOutputSlider(scenarios);
   }, [scenarios])
 
@@ -99,10 +102,14 @@ const App = () => {
 
   useEffect(()=>{
     console.log(feedbackScenarios)
-    stormRecommendation(feedbackScenarios)
+    let toggle = firstFeedbackUpdate.current;
+    stormRecommendation(feedbackScenarios,toggle)
+    if(firstFeedbackUpdate.current){
+      firstFeedbackUpdate.current = false;
+    }
   }, [feedbackScenarios])
   
-  const stormRecommendation = (feedbackScenarios) =>{
+  const stormRecommendation = (feedbackScenarios, toggle) =>{
   
     if(feedbackScenarios.length !== 0) {
       const lowerBound = feedbackScenarios[0]["designStorm"]
@@ -118,12 +125,25 @@ const App = () => {
               </Alert> 
           </div>
         )
-      } else {
-        setDesignStormTitle("Design Storm")
-      }
+      } 
+      // else {
+      //   setDesignStormTitle("Design Storm") 
+      // }
       
     } else {
-      setDesignStormTitle("Design Storm")
+      // if(toggle){
+      //   setDesignStormTitle("Design Strom")
+      // } else {
+      //   setDesignStormTitle(
+      //     <div>
+      //         Design Storm
+      //         <Alert variant="outlined" severity="info" > 
+      //           we currently don't have data for design storm recommendation
+      //         </Alert> 
+      //     </div>
+      //   )
+      // }
+      setDesignStormTitle("Design Strom")
     }
     console.log("finish recommendation")
   }
@@ -259,13 +279,10 @@ const App = () => {
   }
 
   const generateScenarios = (duration, soilType, designStorm, surfaceType, reduction) => {
-    if(reduction === 40){
-      setReductionTitle("Reduction Amount   We current have no 40% data")
-    }
+    
     const scenarioArr = DATA[surfaceType][soilType][duration];
     //pick all the reliablity === 1 scenarios that fit the input context
     setScenarios(scenarioArr.filter(s=>s["designStorm"] === designStorm && s["reliability"] === 1));
-    console.log("this is all generated scenarios",scenarios);
     
   }
 
@@ -285,26 +302,27 @@ const App = () => {
   const generateOutputSlider = (scenarios) => {
     // sort loadingRatio (ascending) & then depth (ascending)
     //actually we don't have to sort it since our orignal data set is sorted
-    scenarios.sort((a,b)=>{
-      if(a.loadingRatio === b.loadingRatio){
-        return a.depth - b.depth
-      }
-      return a.loadingRatio-b.loadingRatio
-    });
-    console.log(scenarios);
-    // console.log("old Depth ",startDepth);
-    // console.log("old Ratio ",startLoadingRatio);
-
-    setStartDepth([scenarios[0]["depth"]]);
-    setDepthTitle("Depth")
-    setRatioTitle("Loading Ratio")
-    console.log('hslkjfdljsflg')
-    setStartLoadingRatio([scenarios[0]["loadingRatio"]])
-    setDepth(scenarios[0]["depth"])
-    setLoadingRatio(scenarios[0]["loadingRatio"])
-
-    // console.log("new Depth " ,startDepth);
-    // console.log("new Ratio" ,startLoadingRatio);
+    if(scenarios.length === 0) {
+      setNoDataAlert([1])
+      console.log("we currently have no data to support this scenario")
+    }
+    else {
+      setNoDataAlert([])
+      scenarios.sort((a,b)=>{
+        if(a.loadingRatio === b.loadingRatio){
+          return a.depth - b.depth
+        }
+        return a.loadingRatio-b.loadingRatio
+      });
+      console.log( "this is scenarios in generatedOutputSlider",scenarios);
+      setStartDepth([scenarios[0]["depth"]]);
+      setDepthTitle("Depth")
+      setRatioTitle("Loading Ratio")
+      console.log('hslkjfdljsflg')
+      setStartLoadingRatio([scenarios[0]["loadingRatio"]])
+      setDepth(scenarios[0]["depth"])
+      setLoadingRatio(scenarios[0]["loadingRatio"])
+    }
   }
 
   
@@ -349,6 +367,13 @@ const App = () => {
             console.log(l)
             return(
               <MySlider key={l} title={ratioTitle} min={0} max={1} step={null} marks={[{value: 0,label: "0"},{value: 0.125,label: "0.125"},{value: 0.16,label: '0.16'},{value: 0.2,label: '0.2'},{value: 0.33,label: '0.33'},{value: 0.5,label: '0.5'},{value: 1,label: '1'}]} onChange={changeRatio} defaultVal={l} value={loadingRatio} />
+            )
+          })}
+          {noDataAlert.map((n)=>{
+            return(
+              <Alert variant="outlined" severity="warning">
+                We currently have no data to support this scenario
+              </Alert>
             )
           })}
         </Box>
